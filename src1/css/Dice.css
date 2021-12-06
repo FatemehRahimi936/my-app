@@ -1,0 +1,9 @@
+.App {
+  align-items: center;
+  justify-content: center;
+}
+.Image_Dice {
+  width: 300px;
+  height: 300px;
+  align-self: center;
+}

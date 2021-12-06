@@ -1,0 +1,27 @@
+.container {
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.frame {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+.cart {
+  margin-top: 100px;
+}
+.inputtext {
+  width: 30;
+  height: 100;
+}
+.Button {
+  color: yellow;
+}
+
+/* Increase the specificity */
+.Button:disabled {
+  color: yellow;
+}

@@ -1,0 +1,27 @@
+.App {
+  align-items: center;
+  justify-content: center;
+}
+.App-header {
+  /* background-color: lightblue; */
+  /* min-height: 100vh; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+.button1 {
+  width: 20px;
+  height: 20px;
+  background-color: crimson;
+}
+.button2 {
+  width: 20px;
+  height: 20px;
+  background-color: lightgreen;
+}
+.count {
+  /* padding: 20px; */
+  font-size: large;
+}

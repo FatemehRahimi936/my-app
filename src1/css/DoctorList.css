@@ -1,0 +1,30 @@
+.kart {
+  /* flex-direction: column; */
+  background-color: #1d2b36;
+  padding: 20px;
+  margin-top: 10px;
+}
+.text {
+  color: white;
+  font-size: 20px;
+}
+.image {
+  width: 100px;
+  height: 100px;
+}
+.image2 {
+  width: 200px;
+  height: 200px;
+}
+.image3 {
+  width: 400px;
+  height: 400px;
+  align-items: center;
+  justify-content: center;
+}
+.div3 {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

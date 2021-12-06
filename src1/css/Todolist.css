@@ -1,0 +1,45 @@
+.container {
+  /* background-color: pink;
+  min-height: 100vh;
+  display: flex; */
+  /* flex-direction: column; */
+
+  justify-content: center;
+}
+.body {
+  background-color: pink;
+  min-height: 100vh;
+}
+
+.input {
+  width: 80%;
+  height: 60px;
+  margin: 12px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 30px;
+}
+.touch {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  background-color: white;
+  padding: 10px;
+  margin: 12px;
+}
+.cart {
+  margin: 5px;
+  background-color: white;
+  justify-content: center;
+  border-radius: 30px;
+  flex-direction: row;
+}
+.divinput {
+  /* flex-direction: row; */
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.divcart {
+  flex-direction: row;
+  display: inline;
+}
