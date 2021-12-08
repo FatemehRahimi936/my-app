@@ -23,7 +23,6 @@ function App() {
             label="لطفا کارت مقصد را وارد کنید"
             variant="outlined"
           />
-          bbb
           <TextField
             style={{ width: "300px", height: "50px", marginTop: "50px" }}
             placeholder=""

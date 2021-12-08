@@ -1,7 +1,7 @@
 body {
   margin: 0;
   height: 100%;
-  /* background-image: url("./img/backBlue.jpg"); */
+  background-image: url("./img/backBlue.jpg");
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;

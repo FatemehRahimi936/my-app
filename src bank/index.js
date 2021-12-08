@@ -1,14 +1,14 @@
-import React from "react";
+import React, { StrictMode } from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter } from "react-router-dom";
 import "./index.css";
-import App from "./ThreeBank";
+import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+// import Context from "./components/Context";
 
 ReactDOM.render(
-  <BrowserRouter>
+  <StrictMode>
     <App />
-  </BrowserRouter>,
+  </StrictMode>,
   document.getElementById("root")
 );
 
