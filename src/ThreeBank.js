@@ -20,7 +20,7 @@ function App() {
               borderBlockColor: "blue",
             }}
             placeholder=""
-            label="لطفا کارت مقصد را وارد کنید"
+            label="hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
             variant="outlined"
           />
 
